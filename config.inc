@@ -24,13 +24,15 @@
 	$locales='en_US.UTF-8';
 
 	// mysql related data
+	// please change this to an aproriate data
 	$sql_host = "localhost";
-	$sql_user = "motionfix";
-	$sql_pass = "motion";
-	$sql_db = "motionex";
+	$sql_user = "dbuser";
+	$sql_pass = "dbpass";
+	$sql_db = "motiondb";
 
 	// info for the webcam popups
-	$server_addr = $_SERVER['192.168.1.2'];
+	//please change localhost to your server adresss
+	$server_addr = $_SERVER['localhost'];
 	$webcam_x = 380;
 	$webcam_y = 310;
 	$webcam_port = array(1081, 1082, 1083, 1084);
