@@ -1,5 +1,10 @@
 # motionbrowserplus
-A front end for motion (WIP)
+A PHP front end for motion (WIP)
+
+Motionbrowser+ aim a fully working PHP Front End for motion
+with modding compatiblity in mind
+based on motionbrowser by Carlos Ladeira ( caladeira@gmail.com )
+
 
 THIS IS WORK IN PROGRESS
 
