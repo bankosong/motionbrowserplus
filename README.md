@@ -5,7 +5,8 @@ Motionbrowser+ aim is
 
 "a fully working PHP Front End for motion with modding compatiblity in mind "
 
-motionbrowser plus based on motionbrowser by Carlos Ladeira ( caladeira@gmail.com )
+motionbrowser plus based on motionbrowser by Carlos Ladeira 
+http://www.lavrsen.dk/foswiki/bin/view/Motion/MotionBrowser
 
 
 THIS IS WORK IN PROGRESS
