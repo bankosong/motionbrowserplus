@@ -11,6 +11,6 @@ http://www.lavrsen.dk/foswiki/bin/view/Motion/MotionBrowser
 
 THIS IS WORK IN PROGRESS
 
-all help is appreciated
+any help is appreciated
 
 you can contact me at: adam@ce.undip.ac.id
